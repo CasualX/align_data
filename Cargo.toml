@@ -1,0 +1,13 @@
+[package]
+name = "align-data"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+
+authors = ["Casper <CasualX@users.noreply.github.com>"]
+description = "Simply increase the alignment of any statics or include_bytes!"
+documentation = "https://docs.rs/align_data"
+repository = "https://github.com/CasualX/align_data"
+readme = "readme.md"
+keywords = ["static", "alignment", "aligned", "include_bytes"]
+categories = ["no-std"]
